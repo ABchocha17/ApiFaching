@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.app{display: flex;width: 100%;background: #fff;color: #000;display: flex;align-items: center;justify-content: center;padding: 50px;gap: 30px;flex-wrap: wrap;}
+
+form{width: 50%;border: 5px solid #fff;padding: 30px;border-radius: 5px;}
+form label{display: block;margin-bottom: 5px;}
+form input{width: 100%;height: 40px;padding: 0px 15px;border: 2px solid #fff;border-radius: 5px;margin-bottom: 15px;}
+button{padding: 10px 15px;border-radius: 5px;cursor: pointer;border: 2px solid #fff;transition: .3s;}
+button:hover{background: #000;color: #fff;}
+
+.app div>*{margin-bottom: 20px;}
+
+.user{width: 100%;}
+.posts{display: flex;flex-wrap: wrap;margin: 0px -10px;}
+.posts .post_card{width: 33.33%;padding: 10px;}
+.post_card_inr{border: 1px solid #fff;background: #11111120;padding: 10px;height: 100%; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;}
+
+.user{display: flex;gap: 20px;border: 1px solid #fff;background: #11111120;padding: 10px;height: 100%; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;flex-wrap: wrap;}
+.user img{width: 200px;object-fit: cover;}
+.userdata{flex: 1;}
+.userchange{width: 100%;}
