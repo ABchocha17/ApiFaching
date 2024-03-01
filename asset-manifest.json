@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apifaching/static/css/main.d6388103.css",
+    "main.js": "/apifaching/static/js/main.cd35e637.js",
+    "static/js/453.a6e06830.chunk.js": "/apifaching/static/js/453.a6e06830.chunk.js",
+    "index.html": "/apifaching/index.html",
+    "main.d6388103.css.map": "/apifaching/static/css/main.d6388103.css.map",
+    "main.cd35e637.js.map": "/apifaching/static/js/main.cd35e637.js.map",
+    "453.a6e06830.chunk.js.map": "/apifaching/static/js/453.a6e06830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6388103.css",
+    "static/js/main.cd35e637.js"
+  ]
+}
