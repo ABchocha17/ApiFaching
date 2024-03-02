@@ -11,8 +11,8 @@ function App() {
       <Header />
       <Routes>
         <Route index element={<Home />} />
-        <Route path='posts' element={<Posts />} />
-        <Route path='rendom-user' element={<RendemUser />} />
+        <Route path='/posts' element={<Posts />} />
+        <Route path='/rendom-user' element={<RendemUser />} />
       </Routes>
     </div>
   );
