@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/apifaching/static/css/main.064eef01.css",
-    "main.js": "/apifaching/static/js/main.073e3dae.js",
+    "main.js": "/apifaching/static/js/main.7a07683e.js",
     "static/js/453.a6e06830.chunk.js": "/apifaching/static/js/453.a6e06830.chunk.js",
     "index.html": "/apifaching/index.html",
     "main.064eef01.css.map": "/apifaching/static/css/main.064eef01.css.map",
-    "main.073e3dae.js.map": "/apifaching/static/js/main.073e3dae.js.map",
+    "main.7a07683e.js.map": "/apifaching/static/js/main.7a07683e.js.map",
     "453.a6e06830.chunk.js.map": "/apifaching/static/js/453.a6e06830.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.064eef01.css",
-    "static/js/main.073e3dae.js"
+    "static/js/main.7a07683e.js"
   ]
 }
