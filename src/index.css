@@ -40,7 +40,7 @@ nav ul a{color: #000;text-decoration: none;}
 .user_img{text-align: center;width: 100%;width: max-content;}
 .user_img img{border-radius: 50%;border: 5px solid transparent;outline: 2px solid #000;margin-bottom: 10px;}
 .userdata{flex: 1;padding-left: 60px;padding-top: 20px;}
-.userdata_top{display: flex;flex-wrap: wrap;align-items: start;justify-content: space-between;margin-bottom: 15px;}
+.userdata_top{display: flex;flex-wrap: wrap;align-items: flex-start;justify-content: space-between;margin-bottom: 15px;}
 .userdata_top p span{display: block;}
 .userdata_top p {text-align: center;margin-bottom: 5px;}
 .userdata ul{list-style: none;display: flex;align-items: center;flex-wrap: wrap;gap: 15px;margin-bottom: 15px;}
